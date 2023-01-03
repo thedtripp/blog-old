@@ -1,4 +1,4 @@
-## Welcome to Tech Treats & Peaks!
+## Welcome to Tech Treats &amp Peaks!
 
 Hello and welcome to my blog!
 
