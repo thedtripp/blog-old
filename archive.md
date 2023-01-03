@@ -7,7 +7,8 @@ title: TTP Archive
   <h3>{{ tag[0] }}</h3>
   <ul>
     {% for post in tag[1] %}
-      <li><a href="{{'' + 'stringhello/'}}{{post.url }}">{{ post.date | date: "%B %Y" }} - {{ post.title }}</a></li>
+      {% url = 'blog/' + post.url %}
+      <li><a href="{{ url }}">{{ post.date | date: "%B %Y" }} - {{ post.title }}</a></li>
     {% endfor %}
   </ul>
 {% endfor %}
