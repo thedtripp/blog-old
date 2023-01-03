@@ -8,6 +8,6 @@ On this blog, you'll find a variety of content including tech tutorials, coding 
 
 I hope you'll stick around and follow me on this journey. Whether you're a tech-savvy learner, a climbing fanatic, or just curious about the world around us, there's something here for you. Let's explore and see what amazing things we can discover together!
 
-Beep beep boop,
+Beep beep boop. Signing off,
 
 Danny
