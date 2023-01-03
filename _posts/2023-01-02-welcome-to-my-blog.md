@@ -1,4 +1,4 @@
-## Blog Post Title From First Header
+## Welcome to Tech Treats & Peaks!
 
 Hello and welcome to my blog!
 
