@@ -22,8 +22,8 @@ linkedin_username: "danieldtripp"
 theme: "minima"
 
 # remote_theme: jekyll/minima
-minima:
-  skin: dark
+# minima:
+#   skin: dark
 
 rss: rss
 
