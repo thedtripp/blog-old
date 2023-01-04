@@ -1,4 +1,4 @@
-## "The Dangerous Game of Playing God: A Warning Against Hubris"
+## The Dangerous Game of Playing God: A Warning Against Hubris
 
 ```
 Once upon a time, in a land far, far away, there lived a group of people who were known for their great wisdom and technological prowess. These people had created many amazing things, including machines that could do almost anything they desired.
