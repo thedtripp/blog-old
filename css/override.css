@@ -6,6 +6,10 @@ hr {
   margin-bottom: 20px;
 }
 
+post{
+  background-color: red;
+}
+
 /* Post navigation links */
 .post_navi {
   display: flex;
