@@ -21,9 +21,6 @@ linkedin_username: "danieldtripp"
 #########################################################################################
 theme: "minima"
 
-minima:
-  skin: dark
-
 rss: rss
 
 kramdown:
