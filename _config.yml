@@ -20,7 +20,10 @@ linkedin_username: "danieldtripp"
 ######### Nothing below needs to be changed (unless you know what you're doing) #########
 #########################################################################################
 # theme: "minima"
-remote_theme: songzivong/dark-minima
+
+remote_theme: jekyll/minima
+minima:
+  skin: dark
 
 rss: rss
 
@@ -31,7 +34,7 @@ kramdown:
 plugins:
   - jekyll-feed
   - jekyll-sitemap
-  - jekyll-remote-theme
+  - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 titles_from_headings:
   strip_title: true
